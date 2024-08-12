@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <header>
-    <nav className="h-[80px] bg-blue-500 w-full items-start justify-center py-[20px]">
+    <nav className="h-[80px] bg-blue-500 w-full items-start justify-center py-[30px]">
       <ul className="flex px-[50px] gap-12">
         <li className="">
           <a href="#services" className="text-white font-semibold">Главная</a>
